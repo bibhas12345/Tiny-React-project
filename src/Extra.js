@@ -32,7 +32,7 @@ export default function Extra() {
                     </p>
                     <div className='flex mt-3 mb-5 justify-between lg:w-full ml-7 lg:ml-0 w-[380px]'>
                         <p className='font-thin'><span className='text-blue-400'>thought</span> by anujgosalia</p>
-                        <p>January 21 . 1 mins Read . 156 views</p>
+                        <p>January 21. 1 mins Read . 156 views</p>
                     </div>
                 </div>
                 <hr></hr>
